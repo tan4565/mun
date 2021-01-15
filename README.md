@@ -1,3 +1,3 @@
 # mun
-#index.html
-#assets
+# index.html
+# assets
